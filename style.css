@@ -3,10 +3,17 @@
   width: 200px;
 }
 
-.background {
-  background-color: #e0f7fa;
-}
-    
+.x{
+  color: aliceblue;
+} 
 #cv-template {
   display: none;
+}
+body{
+  background-image: url("bck.jpeg");
+}
+#rg{
+  color:rgb(255, 125, 3);
+  font-weight: bolder;
+  font-size:43px;
 }
